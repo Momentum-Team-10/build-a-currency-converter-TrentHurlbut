@@ -38,3 +38,10 @@ p {
     margin-left: 35%;
     padding: 15px;
 }
+
+#conversion-currency {
+    border: 3px greenyellow solid;
+    height: 25px;
+    width: 150px;
+    margin-left: 18%;
+}
